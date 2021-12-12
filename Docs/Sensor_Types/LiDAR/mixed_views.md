@@ -1,0 +1,35 @@
+# 3D Object Detection from Mixed Views
+
+## 2021
+
+- Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Pyramid_R-CNN_Towards_Better_Performance_and_Adaptability_for_3D_Object_ICCV_2021_paper.pdf)
+
+- It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Rapoport-Lavie_Its_All_Around_You_Range-Guided_Cylindrical_Network_for_3D_Object_ICCVW_2021_paper.pdf)
+
+## 2020
+
+- PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)\
+Keywords: Voxel Backbone, Point Head, RoI-grid Pooling
+
+- Structure Aware Single-stage 3D Object Detection from Point Cloud [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)
+
+- Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution [(ECCV 20)](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730681.pdf)
+
+- Pillar-based Object Detection for Autonomous Driving [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670018.pdf)
+
+- Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization [(NeurIPS 20)](https://drive.google.com/file/d/1oXLz0SwJVn7HM85g2LUiJh6ydvvnxMqS/view)
+
+- SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds [(Arxiv 20)](https://arxiv.org/pdf/2006.04043.pdf)
+
+## 2019
+
+- Point-Voxel CNN for Efficient 3D Deep Learning [(NeurIPS 19)](https://proceedings.neurips.cc/paper/2019/file/5737034557ef5b8c02c0e46513b98f90-Paper.pdf)\
+Keywords: Point-Voxel Backbone
+
+- Fast Point R-CNN [(ICCV 19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Fast_Point_R-CNN_ICCV_2019_paper.pdf)
+
+- End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds [(CoRL 19)](http://proceedings.mlr.press/v100/zhou20a/zhou20a.pdf)
+
+## 2018
+
+- LMNet: Real-time Multiclass Object Detection on CPU Using 3D LiDAR [(ACIRS 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8467245)

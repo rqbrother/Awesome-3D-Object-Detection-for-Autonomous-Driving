@@ -1,0 +1,31 @@
+# Safety-Aware 3D Object Detection
+
+## 2021
+
+- Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks [(S&P 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9519442)
+
+## 2020
+
+- Physically Realizable Adversarial Examples for LiDAR Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.pdf)
+
+- Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf)
+
+- Learning an Uncertainty-Aware Object Detector for Autonomous Driving [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341623)
+
+- Inferring Spatial Uncertainty in Object Detection [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340798S)
+
+- Towards Better Performance and More Explainable Uncertainty for 3D Object Detection of Autonomous Vehicles [ITSC 20](https://arxiv.org/pdf/2006.12015.pdf)
+
+- Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures [(USENIX Security 20)](https://www.usenix.org/system/files/sec20-sun.pdf)
+
+## 2019
+
+- Robustness of 3D Deep Learning in an Adversarial Setting [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wicker_Robustness_of_3D_Deep_Learning_in_an_Adversarial_Setting_CVPR_2019_paper.pdf)
+
+- Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8814046)
+
+- LiDAR Data Integrity Verification for Autonomous Vehicle [(IEEE Access 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8846700)
+
+## 2018
+
+- Towards Safe Autonomous Driving: Capture Uncertainty in the Deep Neural Network For Lidar 3D Vehicle Detection [(ITSC 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569814)
