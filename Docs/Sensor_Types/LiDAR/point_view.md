@@ -2,7 +2,11 @@
 
 ## 2021
 
-- Relation Graph Network for 3D Object Detection in Point Clouds [T-IP 21](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9234727)
+- 3D Object Detection with Pointformer [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf)
+
+- Relation Graph Network for 3D Object Detection in Point Clouds [(T-IP 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9234727)
+
+- 3D-CenterNet: 3D object detection network for point clouds with center estimation priority [(PR 21)](https://www.sciencedirect.com/science/article/pii/S0031320321000716)
 
 ## 2020
 
@@ -10,9 +14,11 @@
 
 - Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Point-GNN_Graph_Neural_Network_for_3D_Object_Detection_in_a_CVPR_2020_paper.pdf)
 
-- Joint 3D Instance Segmentation and Object Detection for Autonomous Driving [CVPR 20](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)
+- Joint 3D Instance Segmentation and Object Detection for Autonomous Driving [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)
 
 - Improving 3D Object Detection through Progressive Population Based Augmentation [(ECCV 20)](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660273.pdf)
+
+- False Positive Removal for 3D Vehicle Detection with Penetrated Point Classifier [(ICIP 20)](https://arxiv.org/pdf/2005.13153.pdf)
 
 ## 2019
 

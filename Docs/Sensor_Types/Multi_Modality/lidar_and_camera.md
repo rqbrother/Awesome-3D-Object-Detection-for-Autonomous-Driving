@@ -1,5 +1,23 @@
 # Sensors Fusion (LiDAR + Camera) for 3D Object Detection
 
+## 2021
+
+- Frustum-PointPillars: A Multi-Stage Approach for 3D Object Detection using RGB Camera and LiDAR [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Paigwar_Frustum-PointPillars_A_Multi-Stage_Approach_for_3D_Object_Detection_Using_RGB_ICCVW_2021_paper.pdf)
+
+- Multi-Stage Fusion for Multi-Class 3D Lidar Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Wang_Multi-Stage_Fusion_for_Multi-Class_3D_Lidar_Detection_ICCVW_2021_paper.pdf)
+
+- Cross-Modality 3D Object Detection [(WACV 21)](https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Cross-Modality_3D_Object_Detection_WACV_2021_paper.pdf)
+
+- Sparse-PointNet: See Further in Autonomous Vehicles [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483647)
+
+- FusionPainting: Multimodal Fusion with Adaptive Attention for 3D Object Detection [(ITSC 21)](https://arxiv.org/pdf/2106.12449.pdf)
+
+- MF-Net: Meta Fusion Network for 3D object detection [(IJCNN 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534374)
+
+- Multi-Scale Spatial Transformer Network for LiDAR-Camera 3D Object Detection [(IJCNN 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9533588)
+
+- Boost 3-D Object Detection via Point Clouds Segmentation and Fused 3-D GIoU-L1 Loss [(T-NNLS)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241806)
+
 ## 2020
 
 - PointPainting: Sequential Fusion for 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Vora_PointPainting_Sequential_Fusion_for_3D_Object_Detection_CVPR_2020_paper.pdf)
@@ -12,7 +30,11 @@
 
 - CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection [IROS 20](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341791)
 
+- LRPD: Long Range 3D Pedestrian Detection Leveraging Specific Strengths of LiDAR and RGB [(ITSC 20)](https://arxiv.org/pdf/2006.09738.pdf)
+
 - Fusion of 3D LIDAR and Camera Data for Object Detection in Autonomous Vehicle Applications [(Sensors Journal 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8957313)
+
+- SemanticVoxels: Sequential Fusion for 3D Pedestrian Detection using LiDAR Point Cloud and Semantic Segmentation [(MFI 20)](https://arxiv.org/pdf/2009.12276.pdf)
 
 ## 2019
 
@@ -36,6 +58,8 @@ Keywords: 3D Regions from 2D Boxes, Frustum Partition, PointNet Encoding
 Keywords: 3D Regions from 2D Boxes
 
 - SCANet: Spatial-channel attention network for 3D object detection [(ICASSP 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682746)
+
+- One-Stage Multi-Sensor Data Fusion Convolutional Neural Network for 3D Object Detection [(Sensors 19)](https://www.mdpi.com/1424-8220/19/6/1434/pdf)
 
 ## 2018
 

@@ -2,9 +2,29 @@
 
 ## 2021
 
+- Progressive Coordinate Transforms for Monocular 3D Object Detection [(NeurIPS 21)](https://papers.nips.cc/paper/2021/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf)
+
+- Delving into Localization Errors for Monocular 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Delving_Into_Localization_Errors_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
+
+- Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Depth-Conditioned_Dynamic_Message_Propagation_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
+
+- Monocular 3D Object Detection: An Extrinsic Parameter Free Approach [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_3D_Object_Detection_An_Extrinsic_Parameter_Free_Approach_CVPR_2021_paper.pdf)
+
+- AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AutoShape_Real-Time_Shape-Aware_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)
+
+- FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Wang_FCOS3D_Fully_Convolutional_One-Stage_Monocular_3D_Object_Detection_ICCVW_2021_paper.pdf)
+
 - Probabilistic and Geometric Depth: Detecting Objects in Perspective [(CoRL 21)](https://openreview.net/pdf?id=bEito8UUUmf)
 
 - Monocular 3D Detection With Geometric Constraint Embedding and Semi-Supervised Training [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9361326)
+
+- Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting [(ACM MM 21)](https://dl.acm.org/doi/pdf/10.1145/3474085.3475641)
+
+- Point-Guided Contrastive Learning for Monocular 3-D Object Detection [(T-Cybernetics 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525165)
+
+- Lidar Point Cloud Guided Monocular 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2104.09035.pdf)
+
+- OCM3D: Object-Centric Monocular 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2104.06041.pdf)
 
 ## 2020
 
@@ -22,7 +42,13 @@
 
 - Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation [(AAAI 20)](https://ojs.aaai.org/index.php/AAAI/article/download/6618/6472)
 
+- MoNet3D: Towards Accurate Monocular 3D Object Localization in Real Time [(ICML 20)](http://proceedings.mlr.press/v119/zhou20b/zhou20b.pdf)
+
 - MonoFENet: Monocular 3D Object Detection With Feature Enhancement Networks [(T-IP 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8897727)
+
+- Dynamic Depth Fusion and Transformation for Monocular 3D Object Detection [(ACCV 20)](https://openaccess.thecvf.com/content/ACCV2020/papers/Ouyang_Dynamic_Depth_Fusion_and_Transformation_for_Monocular_3D_Object_Detection_ACCV_2020_paper.pdf)
+
+- IAFA: Instance-aware Feature Aggregation for 3D Object Detection from a Single Image [(ACCV 20)](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhou_IAFA_Instance-Aware_Feature_Aggregation_for_3D_Object_Detection_from_a_ACCV_2020_paper.pdf)
 
 ## 2019
 

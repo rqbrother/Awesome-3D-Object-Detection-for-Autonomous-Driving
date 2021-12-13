@@ -14,11 +14,15 @@
 
 - DSDNet: Deep Structured self-Driving Network [(ECCV 20)](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660154.pdf)
 
-- End-to-end Contextual Perception and Prediction with Interaction Transformer [IROS 20](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341392)
+- Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction [(ECCV 20)](https://arxiv.org/pdf/2008.06020.pdf)
+
+- End-to-end Contextual Perception and Prediction with Interaction Transformer [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341392)
 
 - PointTrackNet: An End-to-End Network For 3-D Object Detection and Tracking From Point Clouds [(RA-L 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9000527)
 
 - Multimodal End-to-End Autonomous Driving [(T-ITS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9165167)
+
+- Tracking to Improve Detection Quality in Lidar For Autonomous Driving [(ICASSP 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9053041)
 
 ## 2018
 

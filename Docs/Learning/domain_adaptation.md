@@ -2,9 +2,17 @@
 
 ## 2021
 
+- Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training [(NeurIPS 21)](https://papers.nips.cc/paper/2021/file/b3b25a26a0828ea5d48d8f8aa0d6f9af-Paper.pdf)
+
+- ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.pdf)
+
 - SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SPG_Unsupervised_Domain_Adaptation_for_3D_Object_Detection_via_Semantic_ICCV_2021_paper.pdf)
 
 - Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Unsupervised_Domain_Adaptive_3D_Detection_With_Multi-Level_Consistency_ICCV_2021_paper.pdf)
+
+- 3D for Free: Crossmodal Transfer Learning using HD Maps [(Arxiv 21)](https://arxiv.org/pdf/2008.10592.pdf)
+
+- Uncertainty-aware Mean Teacher for Source-free Unsupervised Domain Adaptive 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2109.14651.pdf)
 
 ## 2020
 

@@ -4,7 +4,27 @@
 
 - Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Pyramid_R-CNN_Towards_Better_Performance_and_Adaptability_for_3D_Object_ICCV_2021_paper.pdf)
 
+- Improving 3D Object Detection with Channel-wise Transformer [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.pdf)
+
 - It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Rapoport-Lavie_Its_All_Around_You_Range-Guided_Cylindrical_Network_for_3D_Object_ICCVW_2021_paper.pdf)
+
+- From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder [(ACM MM 21)](https://dl.acm.org/doi/pdf/10.1145/3474085.3475314)
+
+- RV-FuseNet: Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting [(IROS 21)](https://arxiv.org/pdf/2005.10863.pdf)
+
+- Pattern-Aware Data Augmentation for LiDAR 3D Object Detection [(ITSC 21)](https://arxiv.org/pdf/2112.00050.pdf)
+
+- From Multi-View to Hollow-3D: Hallucinated Hollow-3D R-CNN for 3D Object Detection [(T-CSVT 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9500203)
+
+- Pseudo-Image and Sparse Points: Vehicle Detection With 2D LiDAR Revisited by Deep Learning-Based Methods [(T-ITS 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152088)
+
+- Dual-Branch CNNs for Vehicle Detection and Tracking on LiDAR Data [(T-ITS 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9142426)
+
+- Improved Point-Voxel Region Convolutional Neural Network: 3D Object Detectors for Autonomous Driving [(T-ITS 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9440849)
+
+- P2V-RCNN: Point to Voxel Feature Learning for 3D Object Detection From Point Clouds [(IEEE Access 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9474438)
+
+- PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [Arxiv 21](https://arxiv.org/pdf/2102.00463.pdf)
 
 ## 2020
 
@@ -16,6 +36,8 @@ Keywords: Voxel Backbone, Point Head, RoI-grid Pooling
 - Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution [(ECCV 20)](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730681.pdf)
 
 - Pillar-based Object Detection for Autonomous Driving [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670018.pdf)
+
+- InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling [(ECCV 20)](https://arxiv.org/pdf/2007.08556.pdf)
 
 - Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization [(NeurIPS 20)](https://drive.google.com/file/d/1oXLz0SwJVn7HM85g2LUiJh6ydvvnxMqS/view)
 

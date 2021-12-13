@@ -2,7 +2,15 @@
 
 ## 2021
 
+- Offboard 3D Object Detection from Point Cloud Sequencess [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Offboard_3D_Object_Detection_From_Point_Cloud_Sequences_CVPR_2021_paper.pdf)
+
+- Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds [(T-PAMI 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9609569)
+
 - LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9310205)
+
+- RV-FuseNet: Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting [(IROS 21)](https://arxiv.org/pdf/2005.10863.pdf)
+
+- Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection for Autonomous Driving [(T-CSVT)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9438625)
 
 ## 2020
 
@@ -13,6 +21,10 @@
 - An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds [(ECCV 20)](https://arxiv.org/pdf/2007.12392.pdf)
 
 - Streaming Object Detection for 3-D Point Clouds [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630409.pdf)
+
+- 3D Object Detection and Tracking Based on Streaming Data [(ICRA 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197183)
+
+- 3D Object Detection For Autonomous Driving Using Temporal Lidar Data [(ICIP 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9191134)
 
 - Deep SCNN-Based Real-Time Object Detection for Self-Driving Vehicles Using LiDAR Temporal Data [(IEEE Access 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9078792)
 

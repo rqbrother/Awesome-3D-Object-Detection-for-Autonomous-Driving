@@ -1,5 +1,13 @@
 # Stereo 3D Object Detection
 
+## 2022
+
+- SIDE: Center-based Stereo 3D Detector with Structure-aware Instance Depth Estimation [(WACV 22)](https://arxiv.org/pdf/2108.09663.pdf)
+
+## 2021
+
+- LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_LIGA-Stereo_Learning_LiDAR_Geometry_Aware_Representations_for_Stereo-Based_3D_Detector_ICCV_2021_paper.pdf)
+
 ## 2020
 
 - End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qian_End-to-End_Pseudo-LiDAR_for_Image-Based_3D_Object_Detection_CVPR_2020_paper.pdf)

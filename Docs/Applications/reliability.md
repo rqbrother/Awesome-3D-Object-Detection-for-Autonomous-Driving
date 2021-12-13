@@ -2,7 +2,13 @@
 
 ## 2021
 
+- Fooling LiDAR Perception via Adversarial Trajectory Perturbation [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Fooling_LiDAR_Perception_via_Adversarial_Trajectory_Perturbation_ICCV_2021_paper.pdf)
+
 - Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks [(S&P 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9519442)
+
+- Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving? [(CCS 21)](https://dl.acm.org/doi/pdf/10.1145/3460120.3485377)
+
+- Lidar Light Scattering Augmentation (LISA): Physics-based Simulation of Adverse Weather Conditions for 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2107.07004.pdf)
 
 ## 2020
 

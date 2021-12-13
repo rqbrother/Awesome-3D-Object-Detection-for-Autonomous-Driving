@@ -8,7 +8,15 @@
 
 - LiDAR-Aug: A General Rendering-based Augmentation Framework for 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)
 
+- RAD: Realtime and Accurate 3D Object Detection on Embedded Systems [(CVPRW 21)](https://openaccess.thecvf.com/content/CVPR2021W/WAD/papers/Aghdam_RAD_Realtime_and_Accurate_3D_Object_Detection_on_Embedded_Systems_CVPRW_2021_paper.pdf)
+
 - CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud [(AAAI 21)](https://arxiv.org/pdf/2012.03015.pdf)
+
+- Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection [(AAAI 21)](https://www.aaai.org/AAAI21Papers/AAAI-3337.DengJ.pdf)
+
+- Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud [(ACM MM 21)](https://dl.acm.org/doi/pdf/10.1145/3474085.3475208)
+
+- PSANet: Pyramid Splitting and Aggregation Network for 3D Object Detection in Point Cloud [(Sensors 21)](https://www.mdpi.com/1424-8220/21/1/136/pdf)
 
 ## 2020
 
@@ -42,6 +50,8 @@
 Keywords: Pillar, Bird-Eye View
 
 - IoU Loss for 2D/3D Object Detection [(3DV 19)](https://arxiv.org/pdf/1908.03851.pdf)
+
+- Accurate and Real-time Object Detection based on Bird’s Eye View on 3D Point Clouds [(3DV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8885850)
 
 - Focal Loss in 3D Object Detection [(RA-L 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8624385)
 
