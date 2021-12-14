@@ -24,9 +24,13 @@
 
 - Improved Point-Voxel Region Convolutional Neural Network: 3D Object Detectors for Autonomous Driving [(T-ITS 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9440849)
 
+- DSP-Net: Dense-to-Sparse Proposal Generation Approach for 3D Object Detection on Point Cloud [(IJCNN 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534412)
+
 - P2V-RCNN: Point to Voxel Feature Learning for 3D Object Detection From Point Clouds [(IEEE Access 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9474438)
 
-- PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [Arxiv 21](https://arxiv.org/pdf/2102.00463.pdf)
+- PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [arXiv 21](https://arxiv.org/pdf/2102.00463.pdf)
+
+- M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [(arXiv 21)]()
 
 ## 2020
 
@@ -43,7 +47,7 @@ Keywords: Voxel Backbone, Point Head, RoI-grid Pooling
 
 - Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization [(NeurIPS 20)](https://drive.google.com/file/d/1oXLz0SwJVn7HM85g2LUiJh6ydvvnxMqS/view)
 
-- SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds [(Arxiv 20)](https://arxiv.org/pdf/2006.04043.pdf)
+- SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds [(arXiv 20)](https://arxiv.org/pdf/2006.04043.pdf)
 
 ## 2019
 

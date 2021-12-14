@@ -4,7 +4,7 @@
 
 - CoFF: Cooperative Spatial Feature Fusion for 3-D Object Detection on Autonomous Vehicles [(IoT-J 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9330564)
 
-- OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication [(Arxiv 21)](https://arxiv.org/pdf/2109.07644.pdf)
+- OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication [(arXiv 21)](https://arxiv.org/pdf/2109.07644.pdf)
 
 ## 2020
 

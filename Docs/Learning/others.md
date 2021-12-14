@@ -6,17 +6,21 @@
 
 - SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_SE-SSD_Self-Ensembling_Single-Stage_Object_Detector_From_Point_Cloud_CVPR_2021_paper.pdf)
 
+- Exploring Geometry-aware Contrast and Clustering Harmonization for Self-supervised 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)
+
 - Towards A Weakly Supervised Framework for 3D Point Cloud Object Detection and Annotation [(T-PAMI 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9369074)
 
 - Semi-supervised 3D Object Detection via Adaptive Pseudo-Labeling [(ICIP 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506421)
 
-- Pseudo-labeling for Scalable 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2103.02093.pdf)
+- Pseudo-labeling for Scalable 3D Object Detection [(arXiv 21)](https://arxiv.org/pdf/2103.02093.pdf)
 
-- Open-set 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2112.01135.pdf)
+- Open-set 3D Object Detection [(arXiv 21)](https://arxiv.org/pdf/2112.01135.pdf)
 
 ## 2020
 
 - Weakly Supervised 3D Object Detection from Lidar Point Cloud [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580511.pdf)
+
+- Weakly Supervised 3D Object Detection from Point Clouds [(ACM MM 20)](https://dl.acm.org/doi/pdf/10.1145/3394171.3413805)
 
 ## 2019
 

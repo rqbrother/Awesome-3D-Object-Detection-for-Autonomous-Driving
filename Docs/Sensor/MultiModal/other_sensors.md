@@ -2,15 +2,17 @@
 
 ## 2021
 
+- Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_Robust_Multimodal_Vehicle_Detection_in_Foggy_Weather_Using_Complementary_Lidar_CVPR_2021_paper.pdf)
+
 - CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection [(WACV 21)](https://openaccess.thecvf.com/content/WACV2021/papers/Nabati_CenterFusion_Center-Based_Radar_and_Camera_Fusion_for_3D_Object_Detection_WACV_2021_paper.pdf)
 
 - Graph Convolutional Networks for 3D Object Detection on Radar Data [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Meyer_Graph_Convolutional_Networks_for_3D_Object_Detection_on_Radar_Data_ICCVW_2021_paper.pdf)
 
-- 3D for Free: Crossmodal Transfer Learning using HD Maps [(Arxiv 21)](https://arxiv.org/pdf/2008.10592.pdf)
+- 3D for Free: Crossmodal Transfer Learning using HD Maps [(arXiv 21)](https://arxiv.org/pdf/2008.10592.pdf)
 
-- MapFusion: A General Framework for 3D Object Detection with HDMaps [(Arxiv 21)](https://arxiv.org/pdf/2103.05929.pdf)
+- MapFusion: A General Framework for 3D Object Detection with HDMaps [(arXiv 21)](https://arxiv.org/pdf/2103.05929.pdf)
 
-- Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography [(Arxiv 21)](https://arxiv.org/pdf/2103.15293.pdf)
+- Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography [(arXiv 21)](https://arxiv.org/pdf/2103.15293.pdf)
 
 ## 2020
 

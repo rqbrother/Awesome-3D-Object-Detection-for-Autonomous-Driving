@@ -2,6 +2,8 @@
 
 ## 2021
 
+- Multimodal Virtual Point 3D Detection [(NeurIPS 21)](https://proceedings.neurips.cc/paper/2021/file/895daa408f494ad58006c47a30f51c1f-Paper.pdf)
+
 - Frustum-PointPillars: A Multi-Stage Approach for 3D Object Detection using RGB Camera and LiDAR [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Paigwar_Frustum-PointPillars_A_Multi-Stage_Approach_for_3D_Object_Detection_Using_RGB_ICCVW_2021_paper.pdf)
 
 - Multi-Stage Fusion for Multi-Class 3D Lidar Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Wang_Multi-Stage_Fusion_for_Multi-Class_3D_Lidar_Detection_ICCVW_2021_paper.pdf)
@@ -19,6 +21,8 @@
 - Boost 3-D Object Detection via Point Clouds Segmentation and Fused 3-D GIoU-L1 Loss [(T-NNLS)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241806)
 
 - RangeLVDet: Boosting 3D Object Detection in LIDAR with Range Image and RGB Image [(Sensors Journal 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612185)
+
+- LiDAR Cluster First and Camera Inference Later: A New Perspective Towards Autonomous Driving [(arXiv 21)](https://arxiv.org/pdf/2111.09799.pdf)
 
 ## 2020
 
@@ -65,11 +69,10 @@ Keywords: 3D Regions from 2D Boxes
 
 ## 2018
 
+- Frustum PointNets for 3D Object Detection from RGB-D Data [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)
+
 - Deep Continuous Fusion for Multi-Sensor 3D Object Detection [(ECCV 18)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)\
 Keywords: ContFuse, Point-wise Feature Fusion
-
-- Frustum PointNets for 3D Object Detection from RGB-D Data [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)\
-Keywords: Frustum, PointNet
 
 - Joint 3D Proposal Generation and Object Detection from View Aggregation [(IROS 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594049)\
 Keywords: AVOD, RGB+BEV, Two-stage Anchor/Proposals Fusion

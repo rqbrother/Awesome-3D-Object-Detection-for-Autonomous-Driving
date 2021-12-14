@@ -31,10 +31,10 @@ Keywords: PointNet Backbone, Proposals from Segmentation, Point RoI Pooling
 
 - STD: Sparse-to-Dense 3D Object Detector for Point Cloud [(ICCV 19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_STD_Sparse-to-Dense_3D_Object_Detector_for_Point_Cloud_ICCV_2019_paper.pdf)
 
-- StarNet: Targeted Computation for Object Detection in Point Clouds [(Arxiv 19)](https://arxiv.org/pdf/1908.11069.pdf)
+- StarNet: Targeted Computation for Object Detection in Point Clouds [(arXiv 19)](https://arxiv.org/pdf/1908.11069.pdf)
 
-- PointRGCN: Graph Convolution Networks for 3D Vehicles Detection Refinement [(Arxiv 19)](https://arxiv.org/pdf/1911.12236.pdf)
+- PointRGCN: Graph Convolution Networks for 3D Vehicles Detection Refinement [(arXiv 19)](https://arxiv.org/pdf/1911.12236.pdf)
 
 ## 2018
 
-- IPOD: Intensive Point-based Object Detector for Point Cloud [(Arxiv 18)](https://arxiv.org/pdf/1812.05276.pdf)
+- IPOD: Intensive Point-based Object Detector for Point Cloud [(arXiv 18)](https://arxiv.org/pdf/1812.05276.pdf)

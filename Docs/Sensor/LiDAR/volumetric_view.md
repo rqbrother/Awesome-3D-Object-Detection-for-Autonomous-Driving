@@ -2,19 +2,27 @@
 
 ## 2021
 
-- Voxel Transformer for 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.pdf)
+- PolarStream: Streaming Lidar Object Detection and Segmentation with Polar Pillars [(NeurIPS 21)](https://arxiv.org/pdf/2106.07545.pdf)
+
+- Object DGCNN: 3D Object Detection using Dynamic Graphs [(NeurIPS 21)](https://arxiv.org/pdf/2110.06923.pdf)
 
 - Center-based 3D Object Detection and Tracking [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.pdf)
+
+- Voxel Transformer for 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.pdf)
 
 - LiDAR-Aug: A General Rendering-based Augmentation Framework for 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)
 
 - RAD: Realtime and Accurate 3D Object Detection on Embedded Systems [(CVPRW 21)](https://openaccess.thecvf.com/content/CVPR2021W/WAD/papers/Aghdam_RAD_Realtime_and_Accurate_3D_Object_Detection_on_Embedded_Systems_CVPRW_2021_paper.pdf)
+
+- AGO-Net: Association-Guided 3D Point Cloud Object Detection Network [(T-PAMI 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9511841)
 
 - CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud [(AAAI 21)](https://arxiv.org/pdf/2012.03015.pdf)
 
 - Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection [(AAAI 21)](https://www.aaai.org/AAAI21Papers/AAAI-3337.DengJ.pdf)
 
 - Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud [(ACM MM 21)](https://dl.acm.org/doi/pdf/10.1145/3474085.3475208)
+
+- Integration of Coordinate and Geometric Surface Normal for 3D Point Cloud Object Detection [(IJCNN 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534281)
 
 - PSANet: Pyramid Splitting and Aggregation Network for 3D Object Detection in Point Cloud [(Sensors 21)](https://www.mdpi.com/1424-8220/21/1/136/pdf)
 
@@ -40,9 +48,9 @@
 
 - BirdNet+: End-to-End 3D Object Detection in LiDAR Bird’s Eye View [(ITSC 20)](https://arxiv.org/pdf/2003.04188.pdf)
 
-- 1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation [(Arxiv 20)](https://arxiv.org/pdf/2006.15505.pdf)
+- 1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation [(arXiv 20)](https://arxiv.org/pdf/2006.15505.pdf)
 
-- AFDet: Anchor Free One Stage 3D Object Detection [(Arxiv 20)](https://arxiv.org/pdf/2006.12671.pdf)
+- AFDet: Anchor Free One Stage 3D Object Detection [(arXiv 20)](https://arxiv.org/pdf/2006.12671.pdf)
 
 ## 2019
 
@@ -59,9 +67,9 @@ Keywords: Pillar, Bird-Eye View
 
 - FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds [(CISP 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8965844)
 
-- Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection [(Arxiv 19)](https://arxiv.org/pdf/1908.09492.pdf)
+- Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection [(arXiv 19)](https://arxiv.org/pdf/1908.09492.pdf)
 
-- Patch Refinement - Localized 3D Object Detection [(Arxiv 19)](https://arxiv.org/pdf/1910.04093.pdf)
+- Patch Refinement - Localized 3D Object Detection [(arXiv 19)](https://arxiv.org/pdf/1910.04093.pdf)
 
 ## 2018
 

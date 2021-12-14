@@ -2,6 +2,10 @@
 
 ## 2021
 
+- Object DGCNN: 3D Object Detection using Dynamic Graphs [(NeurIPS 21)](https://arxiv.org/pdf/2110.06923.pdf)
+
+- Center-based 3D Object Detection and Tracking [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.pdf)
+
 - Accurate 3D Object Detection using Energy-Based Models [(CVPRW 21)](https://openaccess.thecvf.com/content/CVPR2021W/WAD/papers/Gustafsson_Accurate_3D_Object_Detection_Using_Energy-Based_Models_CVPRW_2021_paper.pdf)
 
 ## 2020
