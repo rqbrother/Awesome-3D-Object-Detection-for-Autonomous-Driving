@@ -14,6 +14,8 @@
 
 - Uncertainty-aware Mean Teacher for Source-free Unsupervised Domain Adaptive 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2109.14651.pdf)
 
+- Exploiting Playbacks in Unsupervised Domain Adaptation for 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2103.14198.pdf)
+
 ## 2020
 
 - Train in Germany, Test in The USA: Making 3D Object Detectors Generalize [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Train_in_Germany_Test_in_the_USA_Making_3D_Object_CVPR_2020_paper.pdf)

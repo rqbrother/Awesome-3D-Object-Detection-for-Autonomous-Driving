@@ -8,6 +8,10 @@
 
 - 3D for Free: Crossmodal Transfer Learning using HD Maps [(Arxiv 21)](https://arxiv.org/pdf/2008.10592.pdf)
 
+- MapFusion: A General Framework for 3D Object Detection with HDMaps [(Arxiv 21)](https://arxiv.org/pdf/2103.05929.pdf)
+
+- Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography [(Arxiv 21)](https://arxiv.org/pdf/2103.15293.pdf)
+
 ## 2020
 
 - What You See is What You Get: Exploiting Visibility for 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_What_You_See_is_What_You_Get_Exploiting_Visibility_for_CVPR_2020_paper.pdf)

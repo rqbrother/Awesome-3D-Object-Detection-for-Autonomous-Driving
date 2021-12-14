@@ -18,6 +18,8 @@
 
 - Boost 3-D Object Detection via Point Clouds Segmentation and Fused 3-D GIoU-L1 Loss [(T-NNLS)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241806)
 
+- RangeLVDet: Boosting 3D Object Detection in LIDAR with Range Image and RGB Image [(Sensors Journal 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612185)
+
 ## 2020
 
 - PointPainting: Sequential Fusion for 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Vora_PointPainting_Sequential_Fusion_for_3D_Object_Detection_CVPR_2020_paper.pdf)

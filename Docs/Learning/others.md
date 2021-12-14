@@ -12,6 +12,8 @@
 
 - Pseudo-labeling for Scalable 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2103.02093.pdf)
 
+- Open-set 3D Object Detection [(Arxiv 21)](https://arxiv.org/pdf/2112.01135.pdf)
+
 ## 2020
 
 - Weakly Supervised 3D Object Detection from Lidar Point Cloud [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580511.pdf)
