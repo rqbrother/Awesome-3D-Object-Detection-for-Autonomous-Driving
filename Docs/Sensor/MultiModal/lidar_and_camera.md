@@ -4,6 +4,8 @@
 
 - Multimodal Virtual Point 3D Detection [(NeurIPS 21)](https://proceedings.neurips.cc/paper/2021/file/895daa408f494ad58006c47a30f51c1f-Paper.pdf)
 
+- PointAugmenting: Cross-Modal Augmentation for 3D Object Detection [(CVPR 21)](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)
+
 - Frustum-PointPillars: A Multi-Stage Approach for 3D Object Detection using RGB Camera and LiDAR [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Paigwar_Frustum-PointPillars_A_Multi-Stage_Approach_for_3D_Object_Detection_Using_RGB_ICCVW_2021_paper.pdf)
 
 - Multi-Stage Fusion for Multi-Class 3D Lidar Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Wang_Multi-Stage_Fusion_for_Multi-Class_3D_Lidar_Detection_ICCVW_2021_paper.pdf)
@@ -23,6 +25,8 @@
 - RangeLVDet: Boosting 3D Object Detection in LIDAR with Range Image and RGB Image [(Sensors Journal 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612185)
 
 - LiDAR Cluster First and Camera Inference Later: A New Perspective Towards Autonomous Driving [(arXiv 21)](https://arxiv.org/pdf/2111.09799.pdf)
+
+- Exploring Data Augmentation for Multi-Modality 3D Object Detection [(arXiv 21)](https://arxiv.org/pdf/2012.12741.pdf)
 
 ## 2020
 
@@ -50,6 +54,8 @@ Keywords: MultiTask, 2D Detection + 3D Detection + Depth Completion + Mapping
 - Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds [(CVPRW 19)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Simon_Complexer-YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_Point_CVPRW_2019_paper.pdf)
 
 - Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation [(CVPRW 19)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Meyer_Sensor_Fusion_for_Joint_3D_Object_Detection_and_Semantic_Segmentation_CVPRW_2019_paper.pdf)
+
+- MVX-Net: Multimodal VoxelNet for 3D Object Detection [(ICRA 19)](https://arxiv.org/pdf/1904.01649.pdf)
 
 - SEG-VoxelNet for 3D Vehicle Detection from RGB and LiDAR Data [(ICRA 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793492)
 

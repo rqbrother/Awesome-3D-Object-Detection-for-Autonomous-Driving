@@ -32,6 +32,8 @@
 
 - Robustness of 3D Deep Learning in an Adversarial Setting [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wicker_Robustness_of_3D_Deep_Learning_in_an_Adversarial_Setting_CVPR_2019_paper.pdf)
 
+- Identifying Unknown Instances for Autonomous Driving [(CoRL 19)](https://arxiv.org/pdf/1910.11296.pdf)
+
 - Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8814046)
 
 - LiDAR Data Integrity Verification for Autonomous Vehicle [(IEEE Access 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8846700)
