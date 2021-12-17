@@ -4,9 +4,13 @@
 
 - MP3: A Unified Model to Map, Perceive, Predict and Plan [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf)
 
+- Deep Multi-Task Learning for Joint Localization, Perception, and Prediction [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.pdf)
+
 - LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf)
 
 - LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9310205)
+
+- Perceive, Attend, and Drive: Learning Spatial Attention for Safe Self-Driving [(ICRA 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561904)
 
 ## 2020
 

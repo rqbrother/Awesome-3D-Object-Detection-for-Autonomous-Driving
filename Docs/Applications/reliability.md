@@ -12,6 +12,8 @@
 
 - Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving? [(CCS 21)](https://dl.acm.org/doi/pdf/10.1145/3460120.3485377)
 
+- Exploring Adversarial Robustness of Multi-sensor Perception Systems in Self Driving [(CoRL 21)](https://arxiv.org/pdf/2101.06784.pdf)
+
 - Lidar Light Scattering Augmentation (LISA): Physics-based Simulation of Adverse Weather Conditions for 3D Object Detection [(arXiv 21)](https://arxiv.org/pdf/2107.07004.pdf)
 
 - 3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection [(arXiv 21)](https://arxiv.org/pdf/2112.04764.pdf)
