@@ -27,3 +27,5 @@
 ## 2019
 
 - The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes [(ICRA 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793925)
+
+- Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813809)

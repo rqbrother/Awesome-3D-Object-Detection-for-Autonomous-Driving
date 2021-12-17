@@ -40,9 +40,13 @@
 
 - From Points to Parts: 3D Object Detection From Point Cloud With Part-Aware and Part-Aggregation Network [(T-PAMI 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9018080)
 
+- Reconfigurable Voxels: A New Representation for LiDAR-Based Point Clouds [(CoRL 20)](https://arxiv.org/pdf/2004.02724.pdf)
+
 - SegVoxelNet: Exploring Semantic Context and Depth-aware Features for 3D Vehicle Detection from Point Cloud [(ICRA 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196556)
 
 - TANet: Robust 3D Object Detection from Point Clouds with Triple Attention [(AAAI 20)](https://ojs.aaai.org/index.php/AAAI/article/view/6837/6691)
+
+- SARPNET: Shape attention regional proposal network for liDAR-based 3D object detection [(NeuroComputing 20)](https://www.sciencedirect.com/science/article/pii/S0925231219313827)
 
 - Voxel-FPN: Multi-Scale Voxel Feature Aggregation for 3D Object Detection from LIDAR Point Clouds [(Sensors 20)](https://www.mdpi.com/1424-8220/20/3/704/pdf)
 

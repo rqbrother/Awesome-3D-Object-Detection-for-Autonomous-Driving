@@ -2,6 +2,10 @@
 
 ## 2021
 
+- MP3: A Unified Model to Map, Perceive, Predict and Plan [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf)
+
+- LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf)
+
 - LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9310205)
 
 ## 2020
@@ -15,6 +19,10 @@
 - DSDNet: Deep Structured self-Driving Network [(ECCV 20)](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660154.pdf)
 
 - Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction [(ECCV 20)](https://arxiv.org/pdf/2008.06020.pdf)
+
+- Perceive, Predict, and Plan: Safe Motion Planning Through Interpretable Semantic Representations [(ECCV 20)](https://arxiv.org/pdf/2008.05930.pdf)
+
+- STROBE: Streaming Object Detection from LiDAR Packets [(CoRL 20)](https://arxiv.org/pdf/2011.06425.pdf)
 
 - End-to-end Contextual Perception and Prediction with Interaction Transformer [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341392)
 
@@ -30,5 +38,14 @@
 
 ## 2018
 
-- Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)\
-Keywords: Temporal Detection, 3D Detection + Tracking + Motion Forecasting 
+- Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)
+
+- IntentNet: Learning to Predict Intention from Raw Sensor Data [(CoRL 18)](http://www.cs.toronto.edu/~wenjie/papers/intentnet_corl18.pdf)
+
+- End-to-end Driving via Conditional Imitation Learning [(IROS 18)](https://arxiv.org/pdf/1710.02410.pdf)
+
+- Learning to Drive in a Day [(arXiv 18)](https://arxiv.org/pdf/1807.00412.pdf)
+
+## 2017 or earlier
+
+- End to End Learning for Self-Driving Cars [(arXiv 16)](https://arxiv.org/pdf/1604.07316.pdf)

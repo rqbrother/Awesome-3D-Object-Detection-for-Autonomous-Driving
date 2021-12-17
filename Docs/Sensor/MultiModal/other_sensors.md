@@ -20,9 +20,9 @@
 
 - RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630477.pdf)
 
-- Augmented LiDAR Simulator for Autonomous Driving [(RA-L 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8972449)
-
 - High Dimensional Frustum PointNet for 3D Object Detection from Camera, LiDAR, and Radar [(IV 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9304655)
+
+- Radar-Camera Sensor Fusion for Joint Object Detection and Distance Estimation in Autonomous Vehicles [(IROSW 20)](https://arxiv.org/pdf/2009.08428.pdf)
 
 ## 2019
 
@@ -32,6 +32,8 @@
 
 - HDNET: Exploiting HD Maps for 3D Object Detection [(CoRL 18)](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)\
 Keywords: BEV Feature Fusion, HD Map
+
+- Sensors and Sensor Fusion in Autonomous Vehicles [(TELFOR 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8612054)
 
 ## 2017 or earlier
 

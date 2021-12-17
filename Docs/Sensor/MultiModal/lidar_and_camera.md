@@ -77,6 +77,8 @@ Keywords: 3D Regions from 2D Boxes
 
 - Frustum PointNets for 3D Object Detection from RGB-D Data [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)
 
+- PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)
+
 - Deep Continuous Fusion for Multi-Sensor 3D Object Detection [(ECCV 18)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)\
 Keywords: ContFuse, Point-wise Feature Fusion
 
@@ -86,10 +88,10 @@ Keywords: AVOD, RGB+BEV, Two-stage Anchor/Proposals Fusion
 - A General Pipeline for 3D Detection of Vehicles [(ICRA 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461232)\
 Keywords: 3D Regions from 2D Boxes, Fitting Car Models
 
-- Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for 3D Object Detection [(IV 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500387)\
-Keywords: Sparse Non-homogeneous Pooling, Feature Fusion
+- Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for 3D Object Detection [(IV 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500387)
+
+- Robust Camera Lidar Sensor Fusion Via Deep Gated Information Fusion Network [(IV 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8500711)
 
 ## 2017 or earlier
 
-- Multi-View 3D Object Detection Network for Autonomous Driving [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)\
-Keywords: MV3D, RGB+Bird-View+Front-View, Proposal-level Fusion
+- Multi-View 3D Object Detection Network for Autonomous Driving [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)

@@ -2,6 +2,8 @@
 
 ## 2021
 
+- AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_AdvSim_Generating_Safety-Critical_Scenarios_for_Self-Driving_Vehicles_CVPR_2021_paper.pdf)
+
 - Fooling LiDAR Perception via Adversarial Trajectory Perturbation [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Fooling_LiDAR_Perception_via_Adversarial_Trajectory_Perturbation_ICCV_2021_paper.pdf)
 
 - Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf)

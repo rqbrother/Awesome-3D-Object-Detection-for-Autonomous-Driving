@@ -37,10 +37,11 @@
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf)\
 Keywords: Depth from images
 
-- Stereo R-CNN based 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Stereo_R-CNN_Based_3D_Object_Detection_for_Autonomous_Driving_CVPR_2019_paper.pdf)\
-Keywords: Joint 2D Boxes and Stereo Estimation
+- Stereo R-CNN based 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Stereo_R-CNN_Based_3D_Object_Detection_for_Autonomous_Driving_CVPR_2019_paper.pdf)
 
 - Triangulation Learning Network: From Monocular to Stereo 3D Object Detection [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_Triangulation_Learning_Network_From_Monocular_to_Stereo_3D_Object_Detection_CVPR_2019_paper.pdf)
+
+- Realtime 3D Object Detection for Automated Driving Using Stereo Vision and Semantic Information [(ITSC 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917330)
 
 ## 2017 or earlier
 

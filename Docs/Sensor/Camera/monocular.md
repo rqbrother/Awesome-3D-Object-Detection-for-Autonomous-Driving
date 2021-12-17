@@ -18,6 +18,10 @@
 
 - Objects are Different: Flexible Monocular 3D Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Objects_Are_Different_Flexible_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
 
+- M3DSSD: Monocular 3D Single Stage Object Detector [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_M3DSSD_Monocular_3D_Single_Stage_Object_Detector_CVPR_2021_paper.pdf)
+
+- Exploring Intermediate Representation for Monocular Vehicle Pose Estimation [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Exploring_intermediate_representation_for_monocular_vehicle_pose_estimation_CVPR_2021_paper.pdf)
+
 - AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AutoShape_Real-Time_Shape-Aware_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)
 
 - Is Pseudo-Lidar needed for Monocular 3D Object detection? [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Is_Pseudo-Lidar_Needed_for_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)
@@ -136,6 +140,8 @@ Keywords: RGB+Depth Fusion
 - 3D Bounding Boxes for Road Vehicles: A One-Stage, Localization Prioritized Approach using Single Monocular Images [(ECCVW 18)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Gupta_3D_Bounding_Boxes_for_Road_Vehicles_A_One-Stage_Localization_Prioritized_ECCVW_2018_paper.pdf)
 
 - The Earth ain’t Flat: Monocular Reconstruction of Vehicles on Steep and Graded Roads from a Moving Camera [(IROS 18)](https://arxiv.org/pdf/1803.02057.pdf)
+
+- MB-Net: MergeBoxes for Real-Time 3D Vehicles Detection [(IV 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500395)
 
 ## 2017 or earlier
 

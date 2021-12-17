@@ -18,7 +18,9 @@
 
 - LiDAR-based 3D Video Object Detection with Foreground Context Modeling and Spatiotemporal Graph Reasoning [(ITSC 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565058)
 
-- Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection for Autonomous Driving [(T-CSVT)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9438625)
+- Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection for Autonomous Driving [(T-CSVT 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9438625)
+
+- Auto4D: Learning to Label 4D Objects from Sequential Point Clouds [(arXiv 21)](https://arxiv.org/pdf/2101.06586.pdf)
 
 ## 2020
 
@@ -39,6 +41,8 @@
 - Deep SCNN-Based Real-Time Object Detection for Self-Driving Vehicles Using LiDAR Temporal Data [(IEEE Access 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9078792)
 
 ## 2019
+
+- 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks [(CVPR 19)](https://arxiv.org/pdf/1904.08755.pdf)
 
 - Joint Monocular 3D Vehicle Detection and Tracking [(ICCV 19)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)
 

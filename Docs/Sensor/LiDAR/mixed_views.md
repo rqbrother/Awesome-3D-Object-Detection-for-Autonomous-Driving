@@ -10,6 +10,8 @@
 
 - It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Rapoport-Lavie_Its_All_Around_You_Range-Guided_Cylindrical_Network_for_3D_Object_ICCVW_2021_paper.pdf)
 
+- SA-Det3D: Self-Attention Based Context-Aware 3D Object Detection [(ICCVW 21)](https://arxiv.org/pdf/2101.02672.pdf)
+
 - From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder [(ACM MM 21)](https://dl.acm.org/doi/pdf/10.1145/3474085.3475314)
 
 - RV-FuseNet: Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting [(IROS 21)](https://arxiv.org/pdf/2005.10863.pdf)
@@ -30,7 +32,7 @@
 
 - PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [arXiv 21](https://arxiv.org/pdf/2102.00463.pdf)
 
-- M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [(arXiv 21)]()
+- M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [(arXiv 21)](https://arxiv.org/pdf/2104.11896.pdf)
 
 ## 2020
 

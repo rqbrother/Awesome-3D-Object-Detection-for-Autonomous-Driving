@@ -6,4 +6,6 @@
 
 ## 2020
 
+- Learning to Evaluate Perception Models using Planner-Centric Metrics [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Philion_Learning_to_Evaluate_Perception_Models_Using_Planner-Centric_Metrics_CVPR_2020_paper.pdf)
+
 - The efficacy of Neural Planning Metrics: A meta-analysis of PKL on nuScenes [(IROSW 20)](https://arxiv.org/pdf/2010.09350.pdf)
