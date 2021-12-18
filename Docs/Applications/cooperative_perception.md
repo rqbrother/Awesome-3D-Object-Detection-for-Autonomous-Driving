@@ -32,6 +32,10 @@
 
 - F-Cooper: Feature based Cooperative Perception for Autonomous Vehicle Edge Computing System Using 3D Point Clouds [(SEC 19)](https://dl.acm.org/doi/pdf/10.1145/3318216.3363300)
 
+- Automatic Vehicle Tracking With Roadside LiDAR Data for the Connected-Vehicles System [(IS 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721124)
+
+- Detection and tracking of pedestrians and vehicles using roadside LiDAR sensors [(Transport 19)](https://www.sciencedirect.com/science/article/pii/S0968090X19300282)
+
 ## 2018
 
 - Collaborative Automated Driving: A Machine Learning-based Method to Enhance the Accuracy of Shared Information [(ITSC 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569832)

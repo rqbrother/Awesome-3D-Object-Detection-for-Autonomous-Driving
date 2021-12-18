@@ -1,5 +1,9 @@
 # Monocular 3D Object Detection
 
+## 2022
+
+- ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [(WACV 22)](https://arxiv.org/pdf/2106.01178.pdf)
+
 ## 2021
 
 - Progressive Coordinate Transforms for Monocular 3D Object Detection [(NeurIPS 21)](https://papers.nips.cc/paper/2021/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf)
