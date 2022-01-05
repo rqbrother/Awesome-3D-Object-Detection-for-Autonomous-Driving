@@ -2,46 +2,58 @@
 
 This repo contains a collection of papers on 3D object detection for autonomous driving.
 
-## Introduction
+## 1 Data Source for 3D Object Detection
 
-### (1) Task Definition
+- [Autonomous Driving Datasets](Docs/Data/datasets.md)
 
-### (2) Data Representations
+- [Evaluation Metrics](Docs/Data/metric.md)
 
-### (3) Datasets
+- [Simulation Systems](Docs/Data/simulation.md)
 
-### (4) Evaluation Metrics
+## 2 Sensor-based 3D Object Detection
 
-## Sensor Types
+### 2.1 LiDAR-based 3D Object Detection
 
-### (1) Based on LiDAR Sensors
+- [Point-based 3D Object Detection](Docs/Sensor/LiDAR/point_view.md)
 
-- 3D object detection from point views [[papers]](docs/sensors/LiDAR/point_view.md)
+- [Grid-based 3D Object Detection](Docs/Sensor/LiDAR/volumetric_view.md)
 
-- 3D object detection from volumetric views [[papers]](docs/sensors/LiDAR/volumetric_view.md)
+- [Range-based 3D Object Detection](Docs/Sensor/LiDAR/range_view.md)
 
-- 3D object detection from range views [[papers]](docs/sensors/LiDAR/range_view.md)
+- [Mixed Views 3D Object Detection](Docs/Sensor/LiDAR/mixed_views.md)
 
-- 3D object detection from multiple views [[papers]](docs/sensors/LiDAR/multi_view.md)
+### 2.2 Camera-based 3D Object Detection
 
-### (2) Based on Cameras
+- [Monocular-based 3D Object Detection](Docs/Sensor/Camera/monocular.md)
 
-### (3) Based on Multi-Modal Fusion
+- [Stereo-based 3D Object Detection](Docs/Sensor/Camera/stereo.md)
 
-### (4) Based on Other Sensors
+- [Multi-view 3D Object Detection](Docs/Sensor/Camera/multicameras.md)
 
-## Losses
+### 2.3 Fusion-based 3D Object Detection
 
-## Temporal Aggregation
+- [LiDAR & Camera Fusion for 3D Object Detection](Docs/MultiModal/lidar_and_camera.md)
 
-## Learning Types
+- [LiDAR & Other Sensors Fusion for 3D Object Detection](Docs/MultiModal/other_sensors.md)
 
-- Weakly-supervised Learning
+## 3 Temporal 3D Object Detection
 
-- Semi-supervised Learning
+- [Temporal 3D Object Detection](Docs/Sequential/sequential.md)
 
-- Self-supervised Learning
+## 4 Learning Methods for 3D Object Detection
 
-- Domain Adaptation
+- [Domain Adaptation for 3D Object Detection](Docs/Learning/domain_adaptation.md)
 
-## New Outlooks
+- [Weakly-supervised 3D Object Detection](Docs/Learning/weak_learning.md)
+
+- [Semi-supervised 3D Object Detection](Docs/Learning/semi_learning.md)
+
+- [Self-supervised 3D Object Detection](Docs/Learning/self_learning.md)
+
+## 5 Applications
+
+- [3D Object Detection in End-to-End Self-Driving Systems](Docs/Applications/system.md)
+
+- [Reliablity & Robustness for 3D Object Detection](Docs/Applications/reliability.md)
+
+- [Cooperative 3D Object Detection](Docs/Applications/cooperative_perception.md)
