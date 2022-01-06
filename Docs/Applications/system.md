@@ -26,8 +26,6 @@
 
 - Perceive, Predict, and Plan: Safe Motion Planning Through Interpretable Semantic Representations [(ECCV 20)](https://arxiv.org/pdf/2008.05930.pdf)
 
-- STROBE: Streaming Object Detection from LiDAR Packets [(CoRL 20)](https://arxiv.org/pdf/2011.06425.pdf)
-
 - End-to-end Contextual Perception and Prediction with Interaction Transformer [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341392)
 
 - PointTrackNet: An End-to-End Network For 3-D Object Detection and Tracking From Point Clouds [(RA-L 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9000527)

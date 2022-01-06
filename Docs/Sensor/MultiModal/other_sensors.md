@@ -1,4 +1,4 @@
-# 3D Object Detection with Other Modalities
+# LiDAR & Other Sensors Fusion for 3D Object Detection
 
 ## 2021
 
@@ -30,8 +30,7 @@
 
 ## 2018
 
-- HDNET: Exploiting HD Maps for 3D Object Detection [(CoRL 18)](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)\
-Keywords: BEV Feature Fusion, HD Map
+- HDNET: Exploiting HD Maps for 3D Object Detection [(CoRL 18)](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)
 
 - Sensors and Sensor Fusion in Autonomous Vehicles [(TELFOR 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8612054)
 

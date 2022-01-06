@@ -1,4 +1,4 @@
-# Simulation for 3D Object Detection & Autonomous Driving
+# Simulation for Autonomous Driving
 
 ## 2021
 

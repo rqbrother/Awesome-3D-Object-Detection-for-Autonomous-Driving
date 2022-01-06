@@ -1,4 +1,4 @@
-# 3D Object Detection from Range View
+# Range-based 3D Object Detection
 
 ## 2021
 
@@ -8,7 +8,11 @@
 
 - To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Chai_To_the_Point_Efficient_3D_Object_Detection_in_the_Range_CVPR_2021_paper.pdf)
 
+- RangeIoUDet: Range Image based Real-Time 3D Object Detector Optimized by Intersection over Union [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Liang_RangeIoUDet_Range_Image_Based_Real-Time_3D_Object_Detector_Optimized_by_CVPR_2021_paper.pdf)
+
 - RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_RangeDet_In_Defense_of_Range_View_for_LiDAR-Based_3D_Object_ICCV_2021_paper.pdf)
+
+- It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Rapoport-Lavie_Its_All_Around_You_Range-Guided_Cylindrical_Network_for_3D_Object_ICCVW_2021_paper.pdf)
 
 - LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting [(RA-L 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9310205)
 

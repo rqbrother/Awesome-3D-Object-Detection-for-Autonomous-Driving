@@ -2,6 +2,8 @@
 
 ## 2021
 
+- PolarStream: Streaming Lidar Object Detection and Segmentation with Polar Pillars [(NeurIPS 21)](https://arxiv.org/pdf/2106.07545.pdf)
+
 - Offboard 3D Object Detection from Point Cloud Sequencess [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Offboard_3D_Object_Detection_From_Point_Cloud_Sequences_CVPR_2021_paper.pdf)
 
 - 3D-MAN: 3D Multi-frame Attention Network for Object Detection [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_3D-MAN_3D_Multi-Frame_Attention_Network_for_Object_Detection_CVPR_2021_paper.pdf)
@@ -34,6 +36,8 @@
 
 - Kinematic 3D Object Detection in Monocular Video [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680137.pdf)
 
+- STROBE: Streaming Object Detection from LiDAR Packets [(CoRL 20)](https://arxiv.org/pdf/2011.06425.pdf)
+
 - 3D Object Detection and Tracking Based on Streaming Data [(ICRA 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197183)
 
 - 3D Object Detection For Autonomous Driving Using Temporal Lidar Data [(ICIP 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9191134)
@@ -48,7 +52,6 @@
 
 ## 2018
 
-- Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)\
-Keywords: Temporal Detection, 3D Detection + Tracking + Motion Forecasting
+- Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)
 
 - YOLO4D: A Spatio-temporal Approach for Real-time Multi-object Detection and Classification from LiDAR Point Clouds [NIPSW 18](https://openreview.net/pdf?id=B1xWZic29m)

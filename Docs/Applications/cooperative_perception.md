@@ -1,4 +1,4 @@
-# Cooperative Perception
+# Cooperative 3D Object Detection
 
 ## 2021
 

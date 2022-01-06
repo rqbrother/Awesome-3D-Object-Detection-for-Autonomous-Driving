@@ -1,4 +1,4 @@
-# Sensors Fusion (LiDAR + Camera) for 3D Object Detection
+# LiDAR & Camera Fusion for 3D Object Detection
 
 ## 2021
 
@@ -48,8 +48,7 @@
 
 ## 2019
 
-- Multi-Task Multi-Sensor Fusion for 3D Object Detection [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)\
-Keywords: MultiTask, 2D Detection + 3D Detection + Depth Completion + Mapping
+- Multi-Task Multi-Sensor Fusion for 3D Object Detection [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)
 
 - Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds [(CVPRW 19)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Simon_Complexer-YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_Point_CVPRW_2019_paper.pdf)
 
@@ -61,13 +60,11 @@ Keywords: MultiTask, 2D Detection + 3D Detection + Depth Completion + Mapping
 
 - 3D Object Detection Using Scale Invariant and Feature Reweighting Networks [(AAAI 19)](https://ojs.aaai.org/index.php/AAAI/article/download/4963/4836)
 
-- Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection [(IROS 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968513)\
-Keywords: 3D Regions from 2D Boxes, Frustum Partition, PointNet Encoding
+- Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection [(IROS 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968513)
 
 - Deep End-to-end 3D Person Detection from Camera and Lidar [(ITSC 19)](http://pure.tudelft.nl/ws/portalfiles/portal/68940754/roth2019itsc_lidar_person_detection.pdf)
 
-- RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813895)\
-Keywords: 3D Regions from 2D Boxes
+- RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813895)
 
 - SCANet: Spatial-channel attention network for 3D object detection [(ICASSP 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682746)
 
@@ -79,14 +76,11 @@ Keywords: 3D Regions from 2D Boxes
 
 - PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)
 
-- Deep Continuous Fusion for Multi-Sensor 3D Object Detection [(ECCV 18)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)\
-Keywords: ContFuse, Point-wise Feature Fusion
+- Deep Continuous Fusion for Multi-Sensor 3D Object Detection [(ECCV 18)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)
 
-- Joint 3D Proposal Generation and Object Detection from View Aggregation [(IROS 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594049)\
-Keywords: AVOD, RGB+BEV, Two-stage Anchor/Proposals Fusion
+- Joint 3D Proposal Generation and Object Detection from View Aggregation [(IROS 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594049)
 
-- A General Pipeline for 3D Detection of Vehicles [(ICRA 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461232)\
-Keywords: 3D Regions from 2D Boxes, Fitting Car Models
+- A General Pipeline for 3D Detection of Vehicles [(ICRA 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461232)
 
 - Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for 3D Object Detection [(IV 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500387)
 

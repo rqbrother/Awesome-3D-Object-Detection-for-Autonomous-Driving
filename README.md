@@ -2,13 +2,13 @@
 
 This repo contains a collection of papers on 3D object detection for autonomous driving.
 
+Last Updated: Jan. 4, 2022
+
 ## 1 Data Source for 3D Object Detection
 
-- [Autonomous Driving Datasets](Docs/Data/datasets.md)
+- [Datasets for 3D Object Detection](Docs/Data/datasets.md)
 
 - [Evaluation Metrics](Docs/Data/metric.md)
-
-- [Simulation Systems](Docs/Data/simulation.md)
 
 ## 2 Sensor-based 3D Object Detection
 
@@ -16,11 +16,11 @@ This repo contains a collection of papers on 3D object detection for autonomous 
 
 - [Point-based 3D Object Detection](Docs/Sensor/LiDAR/point_view.md)
 
-- [Grid-based 3D Object Detection](Docs/Sensor/LiDAR/volumetric_view.md)
+- [Grid-based 3D Object Detection (Voxels & Pillars)](Docs/Sensor/LiDAR/volumetric_view.md)
 
 - [Range-based 3D Object Detection](Docs/Sensor/LiDAR/range_view.md)
 
-- [Mixed Views 3D Object Detection](Docs/Sensor/LiDAR/mixed_views.md)
+- [3D Object Detection with Mixed Representations](Docs/Sensor/LiDAR/mixed_views.md)
 
 ### 2.2 Camera-based 3D Object Detection
 
@@ -28,13 +28,13 @@ This repo contains a collection of papers on 3D object detection for autonomous 
 
 - [Stereo-based 3D Object Detection](Docs/Sensor/Camera/stereo.md)
 
-- [Multi-view 3D Object Detection](Docs/Sensor/Camera/multicameras.md)
+- [Multi-camera 3D Object Detection](Docs/Sensor/Camera/multicameras.md)
 
 ### 2.3 Fusion-based 3D Object Detection
 
-- [LiDAR & Camera Fusion for 3D Object Detection](Docs/MultiModal/lidar_and_camera.md)
+- [LiDAR & Camera Fusion for 3D Object Detection](Docs/Sensor/MultiModal/lidar_and_camera.md)
 
-- [LiDAR & Other Sensors Fusion for 3D Object Detection](Docs/MultiModal/other_sensors.md)
+- [LiDAR & Other Sensors Fusion for 3D Object Detection](Docs/Sensor/MultiModal/other_sensors.md)
 
 ## 3 Temporal 3D Object Detection
 
@@ -52,7 +52,9 @@ This repo contains a collection of papers on 3D object detection for autonomous 
 
 ## 5 Applications
 
-- [3D Object Detection in End-to-End Self-Driving Systems](Docs/Applications/system.md)
+- [3D Object Detection in Autonomous Driving Systems](Docs/Applications/system.md)
+
+- [Simulation for Autonomous Driving](Docs/Applications/simulation.md)
 
 - [Reliablity & Robustness for 3D Object Detection](Docs/Applications/reliability.md)
 

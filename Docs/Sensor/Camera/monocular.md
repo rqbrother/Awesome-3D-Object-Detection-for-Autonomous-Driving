@@ -89,10 +89,8 @@
 ## 2019
 
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf)\
-Keywords: Depth from images
 
 - GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_GS3D_An_Efficient_3D_Object_Detection_Framework_for_Autonomous_Driving_CVPR_2019_paper.pdf)\
-Keywords: 2D Boxes and Orientaions, Visible Surfaces Refinement
 
 - Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ku_Monocular_3D_Object_Detection_Leveraging_Accurate_Proposals_and_Shape_Reconstruction_CVPR_2019_paper.pdf)
 
@@ -136,8 +134,7 @@ Keywords: 2D Boxes and Orientaions, Visible Surfaces Refinement
 
 ## 2018
 
-- Multi-Level Fusion based 3D Object Detection from Monocular Images [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)\
-Keywords: RGB+Depth Fusion
+- Multi-Level Fusion based 3D Object Detection from Monocular Images [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)
 
 - 3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf)
 
@@ -149,20 +146,14 @@ Keywords: RGB+Depth Fusion
 
 ## 2017 or earlier
 
-- Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chabot_Deep_MANTA_A_CVPR_2017_paper.pdf)\
-Keywords: MultiTask, Part Estimation
+- Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chabot_Deep_MANTA_A_CVPR_2017_paper.pdf)
 
-- 3D Bounding Box Estimation Using Deep Learning and Geometry [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Mousavian_3D_Bounding_Box_CVPR_2017_paper.pdf)\
-Keywords: 3D Objects from 2D Boxes, Geometric Constraints
+- 3D Bounding Box Estimation Using Deep Learning and Geometry [(CVPR 17)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Mousavian_3D_Bounding_Box_CVPR_2017_paper.pdf)
 
-- Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection [(WACV 17)](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Xiang2016ARXIV.pdf)\
-Keywords: Subcategory-aware RPN
+- Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection [(WACV 17)](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Xiang2016ARXIV.pdf)
 
-- Monocular 3D Object Detection for Autonomous Driving [(CVPR 16)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf)\
-Keywords: Mono3D, Projection, Ground Plane Prior, Energy Minimizaion
+- Monocular 3D Object Detection for Autonomous Driving [(CVPR 16)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf)
 
-- Data-Driven 3D Voxel Patterns for Object Category Recognition [(CVPR 15)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiang_Data-Driven_3D_Voxel_2015_CVPR_paper.pdf)\
-Keywords: Fitting Images to CAD Models, 3D Voxel Patterns
+- Data-Driven 3D Voxel Patterns for Object Category Recognition [(CVPR 15)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiang_Data-Driven_3D_Voxel_2015_CVPR_paper.pdf)
 
-- Are Cars Just 3D Boxes? – Jointly Estimating the 3D Shape of Multiple Objects [(CVPR 14)](https://openaccess.thecvf.com/content_cvpr_2014/papers/Zia_Are_Cars_Just_2014_CVPR_paper.pdf)\
-Keywords: 3D Shape Estimation
+- Are Cars Just 3D Boxes? – Jointly Estimating the 3D Shape of Multiple Objects [(CVPR 14)](https://openaccess.thecvf.com/content_cvpr_2014/papers/Zia_Are_Cars_Just_2014_CVPR_paper.pdf)

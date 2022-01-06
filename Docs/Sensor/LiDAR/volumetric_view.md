@@ -1,8 +1,6 @@
-# 3D Object Detection from Volumetric View
+# Grid-based 3D Object Detection (Voxels & Pillars)
 
 ## 2021
-
-- PolarStream: Streaming Lidar Object Detection and Segmentation with Polar Pillars [(NeurIPS 21)](https://arxiv.org/pdf/2106.07545.pdf)
 
 - Object DGCNN: 3D Object Detection using Dynamic Graphs [(NeurIPS 21)](https://arxiv.org/pdf/2110.06923.pdf)
 
@@ -28,6 +26,8 @@
 
 ## 2020
 
+- Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization [(NeurIPS 20)](https://drive.google.com/file/d/1oXLz0SwJVn7HM85g2LUiJh6ydvvnxMqS/view)
+
 - HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.pdf)
 
 - Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection [(CVPR 20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Associate-3Ddet_Perceptual-to-Conceptual_Association_for_3D_Point_Cloud_Object_Detection_CVPR_2020_paper.pdf)
@@ -37,6 +37,8 @@
 - Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660069.pdf)
 
 - SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700579.pdf)
+
+- Pillar-based Object Detection for Autonomous Driving [(ECCV 20)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670018.pdf)
 
 - From Points to Parts: 3D Object Detection From Point Cloud With Part-Aware and Part-Aggregation Network [(T-PAMI 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9018080)
 
@@ -59,7 +61,8 @@
 ## 2019
 
 - PointPillars: Fast Encoders for Object Detection from Point Clouds [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)\
-Keywords: Pillar, Bird-Eye View
+
+- End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds [(CoRL 19)](http://proceedings.mlr.press/v100/zhou20a/zhou20a.pdf)
 
 - IoU Loss for 2D/3D Object Detection [(3DV 19)](https://arxiv.org/pdf/1908.03851.pdf)
 
@@ -77,36 +80,27 @@ Keywords: Pillar, Bird-Eye View
 
 ## 2018
 
-- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf)\
-Keywords: Voxels, Voxel Feature Encoding (VFE)
+- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf)
 
-- PIXOR: Real-time 3D Object Detection from Point Clouds [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)\
-Keywords: Dense Occupancy Grids as 2D Images
+- PIXOR: Real-time 3D Object Detection from Point Clouds [(CVPR 18)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)
 
-- SECOND: Sparsely Embedded Convolutional Detection [(Sensors 18)](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)\
-Keywords: Sparse Convolutions, Angle Loss
+- SECOND: Sparsely Embedded Convolutional Detection [(Sensors 18)](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
 
 - RT3D: Real-Time 3-D Vehicle Detection in LiDAR Point Cloud for Autonomous Driving [(RA-L 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8403277)
 
-- BirdNet: a 3D Object Detection Framework from LiDAR Information [(ITSC 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569311)\
-Keywords: BEV Map
+- BirdNet: a 3D Object Detection Framework from LiDAR Information [(ITSC 18)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569311)
 
 - YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud [(ECCVW 18)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.pdf)
 
-- Complex-YOLO: An Euler-Region-Proposal for Real-time 3D Object Detection on Point Clouds [(ECCVW 28)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Simony_Complex-YOLO_An_Euler-Region-Proposal_for_Real-time_3D_Object_Detection_on_Point_ECCVW_2018_paper.pdf)\
-Keywords: BEV Map, E-RPN
+- Complex-YOLO: An Euler-Region-Proposal for Real-time 3D Object Detection on Point Clouds [(ECCVW 28)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Simony_Complex-YOLO_An_Euler-Region-Proposal_for_Real-time_3D_Object_Detection_on_Point_ECCVW_2018_paper.pdf)
 
 ## 2017 or earlier
 
-- 3D Fully Convolutional Network for Vehicle Detection in Point Cloud [(IROS 17)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8205955)\
-Keywords: Dense Binary Grid, 3D FCN
+- 3D Fully Convolutional Network for Vehicle Detection in Point Cloud [(IROS 17)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8205955)
 
 - Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient
-Convolutional Neural Networks [(ICRA 17)](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Engelcke2016ARXIV.pdf)\
-Keywords: Sparse Convolutions via Voting
+Convolutional Neural Networks [(ICRA 17)](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Engelcke2016ARXIV.pdf)
 
-- Vehicle Detection from 3D Lidar Using Fully Convolutional Network [(RSS 16)](https://arxiv.org/pdf/1608.07916.pdf)\
-Keywords: VeloFCN, 2D Point Map, 2D CNN
+- Vehicle Detection from 3D Lidar Using Fully Convolutional Network [(RSS 16)](https://arxiv.org/pdf/1608.07916.pdf)
 
-- Voting for Voting in Online Point Cloud Object Detection [(RSS 15)](http://roboticsproceedings.org/rss11/p35.pdf)\
-Keywords: Sliding Window, Grid, Voting
+- Voting for Voting in Online Point Cloud Object Detection [(RSS 15)](http://roboticsproceedings.org/rss11/p35.pdf)

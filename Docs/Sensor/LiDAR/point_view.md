@@ -1,4 +1,4 @@
-# 3D Object Detection from Point View
+# Point-based 3D Object Detection
 
 ## 2021
 
@@ -24,8 +24,7 @@
 
 ## 2019
 
-- PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)\
-Keywords: PointNet Backbone, Proposals from Segmentation, Point RoI Pooling
+- PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)
 
 - Attentional PointNet for 3D-Object Detection in Point Clouds [(CVPRW 19)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)
 
