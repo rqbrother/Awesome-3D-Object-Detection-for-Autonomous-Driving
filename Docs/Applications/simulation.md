@@ -20,7 +20,7 @@
 
 - Learning to Drop Points for LiDAR Scan Synthesis [(IROS 21)](https://arxiv.org/pdf/2102.11952.pdf)
 
-- VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles [arXiv 21](https://arxiv.org/pdf/2111.12083.pdf)
+- VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles [(arXiv 21)](https://arxiv.org/pdf/2111.12083.pdf)
 
 - Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior [(arXiv 21)](https://arxiv.org/pdf/2112.05077.pdf)
 

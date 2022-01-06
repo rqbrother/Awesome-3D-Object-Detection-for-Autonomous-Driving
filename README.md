@@ -2,7 +2,9 @@
 
 This repo contains a collection of papers on 3D object detection for autonomous driving.
 
-Last Updated: Jan. 4, 2022
+We will constantly update this repo. We also welcome everyone to contribute to this repo if you found an awesome paper not included in it.
+
+Last Updated: Jan. 4, 2022.
 
 ## 1 Data Source for 3D Object Detection
 

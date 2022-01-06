@@ -50,6 +50,6 @@
 
 ## 2017 or earlier
 
-- Vision meets Robotics: The KITTI Dataset [IJRR 13](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
+- Vision meets Robotics: The KITTI Dataset [(IJRR 13)](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
 
 - Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite [(CVPR 12)](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf)

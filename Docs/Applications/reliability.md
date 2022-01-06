@@ -28,7 +28,7 @@
 
 - Inferring Spatial Uncertainty in Object Detection [(IROS 20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9340798S)
 
-- Towards Better Performance and More Explainable Uncertainty for 3D Object Detection of Autonomous Vehicles [ITSC 20](https://arxiv.org/pdf/2006.12015.pdf)
+- Towards Better Performance and More Explainable Uncertainty for 3D Object Detection of Autonomous Vehicles [(ITSC 20)](https://arxiv.org/pdf/2006.12015.pdf)
 
 - Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures [(USENIX Security 20)](https://www.usenix.org/system/files/sec20-sun.pdf)
 

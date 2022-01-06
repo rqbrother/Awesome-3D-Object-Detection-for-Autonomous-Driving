@@ -88,9 +88,9 @@
 
 ## 2019
 
-- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf)\
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf)
 
-- GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_GS3D_An_Efficient_3D_Object_Detection_Framework_for_Autonomous_Driving_CVPR_2019_paper.pdf)\
+- GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_GS3D_An_Efficient_3D_Object_Detection_Framework_for_Autonomous_Driving_CVPR_2019_paper.pdf)
 
 - Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ku_Monocular_3D_Object_Detection_Leveraging_Accurate_Proposals_and_Shape_Reconstruction_CVPR_2019_paper.pdf)
 
