@@ -124,6 +124,8 @@
 
 - Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image [(IV 19)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8814050)
 
+- Objects as Points [(arXiv 19)](https://arxiv.org/pdf/1904.07850.pdf)
+
 - Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss [(arXiv 19)](https://arxiv.org/pdf/1906.08070.pdf)
 
 - Monocular 3D Object Detection via Geometric Reasoning on Keypoints [(arXiv 19)](https://arxiv.org/pdf/1905.05618.pdf)

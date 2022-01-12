@@ -1,5 +1,9 @@
 # LiDAR & Camera Fusion for 3D Object Detection
 
+## 2022
+
+- Fast-CLOCs: Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection [(WACV 22)](https://openaccess.thecvf.com/content/WACV2022/papers/Pang_Fast-CLOCs_Fast_Camera-LiDAR_Object_Candidates_Fusion_for_3D_Object_Detection_WACV_2022_paper.pdf)
+
 ## 2021
 
 - Multimodal Virtual Point 3D Detection [(NeurIPS 21)](https://proceedings.neurips.cc/paper/2021/file/895daa408f494ad58006c47a30f51c1f-Paper.pdf)
