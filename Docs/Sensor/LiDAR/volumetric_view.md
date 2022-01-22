@@ -60,7 +60,7 @@
 
 ## 2019
 
-- PointPillars: Fast Encoders for Object Detection from Point Clouds [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)\
+- PointPillars: Fast Encoders for Object Detection from Point Clouds [(CVPR 19)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)
 
 - End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds [(CoRL 19)](http://proceedings.mlr.press/v100/zhou20a/zhou20a.pdf)
 

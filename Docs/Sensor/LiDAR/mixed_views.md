@@ -2,6 +2,10 @@
 
 ## 2021
 
+- LiDAR R-CNN: An Efficient and Universal 3D Object Detector [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_LiDAR_R-CNN_An_Efficient_and_Universal_3D_Object_Detector_CVPR_2021_paper.pdf)
+
+- PVGNet: A Bottom-Up One-Stage 3D Object Detector with Integrated Multi-Level Features [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Miao_PVGNet_A_Bottom-Up_One-Stage_3D_Object_Detector_With_Integrated_Multi-Level_CVPR_2021_paper.pdf)
+
 - Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Pyramid_R-CNN_Towards_Better_Performance_and_Adaptability_for_3D_Object_ICCV_2021_paper.pdf)
 
 - Improving 3D Object Detection with Channel-wise Transformer [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.pdf)

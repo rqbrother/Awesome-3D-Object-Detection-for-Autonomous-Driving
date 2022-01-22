@@ -4,8 +4,6 @@
 
 - 3D Object Detection with Pointformer [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf)
 
-- LiDAR R-CNN: An Efficient and Universal 3D Object Detector [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_LiDAR_R-CNN_An_Efficient_and_Universal_3D_Object_Detector_CVPR_2021_paper.pdf)
-
 - Relation Graph Network for 3D Object Detection in Point Clouds [(T-IP 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9234727)
 
 - 3D-CenterNet: 3D object detection network for point clouds with center estimation priority [(PR 21)](https://www.sciencedirect.com/science/article/pii/S0031320321000716)
