@@ -1,5 +1,9 @@
 # Point-based 3D Object Detection
 
+## 2022
+
+- SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2201.01976.pdf)
+
 ## 2021
 
 - 3D Object Detection with Pointformer [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf)

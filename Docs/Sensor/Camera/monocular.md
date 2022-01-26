@@ -30,6 +30,8 @@
 
 - Is Pseudo-Lidar needed for Monocular 3D Object detection? [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Is_Pseudo-Lidar_Needed_for_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)
 
+- The Devil is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection [(ICCV 21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.pdf)
+
 - FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Wang_FCOS3D_Fully_Convolutional_One-Stage_Monocular_3D_Object_Detection_ICCVW_2021_paper.pdf)
 
 - MonoCInIS: Camera Independent Monocular 3D Object Detection using Instance Segmentation [(ICCVW 21)](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Heylen_MonoCInIS_Camera_Independent_Monocular_3D_Object_Detection_Using_Instance_Segmentation_ICCVW_2021_paper.pdf)

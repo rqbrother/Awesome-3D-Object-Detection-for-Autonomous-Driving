@@ -2,6 +2,8 @@
 
 ## 2022
 
+- AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection [(arXiv 22)](https://arxiv.org/pdf/2201.06493.pdf)
+
 - Fast-CLOCs: Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection [(WACV 22)](https://openaccess.thecvf.com/content/WACV2022/papers/Pang_Fast-CLOCs_Fast_Camera-LiDAR_Object_Candidates_Fusion_for_3D_Object_Detection_WACV_2022_paper.pdf)
 
 ## 2021

@@ -1,5 +1,9 @@
 # 3D Object Detection with Mixed Representations
 
+## 2022
+
+- Behind the Curtain: Learning Occluded Shapes for 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2112.02205.pdf)
+
 ## 2021
 
 - LiDAR R-CNN: An Efficient and Universal 3D Object Detector [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_LiDAR_R-CNN_An_Efficient_and_Universal_3D_Object_Detector_CVPR_2021_paper.pdf)

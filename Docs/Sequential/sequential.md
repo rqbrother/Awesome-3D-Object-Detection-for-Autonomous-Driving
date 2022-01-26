@@ -1,5 +1,9 @@
 # Temporal 3D Object Detection
 
+## 2022
+
+- Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds [(AAAI 22)](https://arxiv.org/pdf/2112.07116.pdf)
+
 ## 2021
 
 - PolarStream: Streaming Lidar Object Detection and Segmentation with Polar Pillars [(NeurIPS 21)](https://arxiv.org/pdf/2106.07545.pdf)
