@@ -8,6 +8,8 @@
 
 - AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection [(arXiv 22)](https://arxiv.org/pdf/2201.06493.pdf)
 
+- Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2112.04628.pdf)
+
 - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2112.02205.pdf)
 
 - SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2201.01976.pdf)
