@@ -1,5 +1,9 @@
 # 3D Object Detection in Self-Driving Systems
 
+## 2022
+
+- Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception [(ICLR 22)](https://openreview.net/pdf?id=qsZoGvFiJn1)
+
 ## 2021
 
 - MP3: A Unified Model to Map, Perceive, Predict and Plan [(CVPR 21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf)

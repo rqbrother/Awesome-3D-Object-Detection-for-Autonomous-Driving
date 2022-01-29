@@ -1,5 +1,9 @@
 # Weakly-Supervised 3D Object Detection
 
+## 2022
+
+- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [(ICLR 22)](https://openreview.net/pdf?id=ahi2XSHpAUZ)
+
 ## 2021
 
 - Towards A Weakly Supervised Framework for 3D Point Cloud Object Detection and Annotation [(T-PAMI 21)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9369074)

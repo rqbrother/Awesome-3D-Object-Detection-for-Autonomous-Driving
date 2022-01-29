@@ -2,6 +2,8 @@
 
 ## 2022
 
+- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [(ICLR 22)](https://openreview.net/pdf?id=C54V-xTWfi)
+
 - Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [(AAAI 22)](https://arxiv.org/pdf/2112.04628.pdf)
 
 - ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [(WACV 22)](https://arxiv.org/pdf/2106.01178.pdf)
