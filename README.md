@@ -4,7 +4,7 @@ This repo contains a collection of papers on 3D object detection for autonomous 
 
 We will constantly update this repo. We also welcome everyone to contribute to this repo if you found an awesome paper not included in it.
 
-Last Updated: Jan. 28, 2022. (ICLR 2022 added)
+Last Updated: April 30, 2022. (CVPR 2022 added)
 
 ## 0 Recent Papers on arXiv
 
